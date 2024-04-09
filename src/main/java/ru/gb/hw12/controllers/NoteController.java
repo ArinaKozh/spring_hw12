@@ -1,12 +1,12 @@
-package ru.maliutin.seminar6hw1.controllers;
+package ru.gb.hw12.controllers;
 
 import io.micrometer.core.instrument.Counter;
 import io.micrometer.core.instrument.Metrics;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
-import ru.maliutin.seminar6hw1.models.Note;
-import ru.maliutin.seminar6hw1.services.NoteService;
+import ru.gb.hw12.models.Note;
+import ru.gb.hw12.services.NoteService;
 
 import java.util.List;
 

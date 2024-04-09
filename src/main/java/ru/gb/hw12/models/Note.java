@@ -1,4 +1,4 @@
-package ru.maliutin.seminar6hw1.models;
+package ru.gb.hw12.models;
 
 import jakarta.persistence.*;
 import lombok.Data;

@@ -1,10 +1,10 @@
-package ru.maliutin.seminar6hw1.services;
+package ru.gb.hw12.services;
 
 import lombok.AllArgsConstructor;
 import org.springframework.stereotype.Service;
-import ru.maliutin.seminar6hw1.models.Note;
-import ru.maliutin.seminar6hw1.models.exceptions.ResourceNotFoundException;
-import ru.maliutin.seminar6hw1.repositories.NoteRepository;
+import ru.gb.hw12.models.exceptions.ResourceNotFoundException;
+import ru.gb.hw12.repositories.NoteRepository;
+import ru.gb.hw12.models.Note;
 
 import java.time.LocalDateTime;
 import java.util.List;

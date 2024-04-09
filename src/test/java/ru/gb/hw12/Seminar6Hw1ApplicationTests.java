@@ -1,4 +1,4 @@
-package ru.maliutin.seminar6hw1;
+package ru.gb.hw12;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

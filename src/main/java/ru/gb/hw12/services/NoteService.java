@@ -1,6 +1,6 @@
-package ru.maliutin.seminar6hw1.services;
+package ru.gb.hw12.services;
 
-import ru.maliutin.seminar6hw1.models.Note;
+import ru.gb.hw12.models.Note;
 
 import java.util.List;
 

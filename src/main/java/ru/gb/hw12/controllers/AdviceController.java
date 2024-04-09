@@ -1,11 +1,11 @@
-package ru.maliutin.seminar6hw1.controllers;
+package ru.gb.hw12.controllers;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.ExceptionHandler;
 import org.springframework.web.bind.annotation.ResponseStatus;
 import org.springframework.web.bind.annotation.RestControllerAdvice;
-import ru.maliutin.seminar6hw1.models.exceptions.ExceptionBody;
-import ru.maliutin.seminar6hw1.models.exceptions.ResourceNotFoundException;
+import ru.gb.hw12.models.exceptions.ExceptionBody;
+import ru.gb.hw12.models.exceptions.ResourceNotFoundException;
 
 import java.time.LocalDateTime;
 

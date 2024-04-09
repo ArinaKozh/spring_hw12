@@ -1,4 +1,4 @@
-package ru.maliutin.seminar6hw1.models.exceptions;
+package ru.gb.hw12.models.exceptions;
 
 /**
  * Исключение при отсутствии данных в БД.
